@@ -233,6 +233,37 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 
 ---
 
+## Python Visualizations
+
+The project also includes selected visualizations created using Python and Matplotlib during the data analysis phase.
+
+The visualizations include:
+
+* Yearly Sales
+* Monthly Sales Trend
+* Sales by Category
+* Profit by Category
+* Profit by Sub-Category
+* Sales by Customer Segment
+* Sales by Region
+* Profit by Region
+
+These visualizations are available in the visualizations folder.
+
+### Visualization Files
+
+- [`Yearly Sales`](visualizations/yearly_sales.png)
+- [`Monthly Sales Trend`](visualizations/Monthly_Sales_Trend.png)
+- [`Sales by Category`](visualizations/Sales_by_Category.png)
+- [`Profit by Category`](visualizations/Profit_by_Category.png)
+- [`Profit by Sub-Category`](visualizations/Profit_by_Sub-Category.png)
+- [`Sales by Customer Segment`](visualizations/Sales_by_Customer_Segment.png)
+- [`Sales by Region`](visualizations/Sales_by_Region.png)
+- [`Profit by Region`](visualizations/Profit_by_Region.png)
+
+
+---
+
 ## Key Business Insights
 
 ### Category Performance
